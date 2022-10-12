@@ -2,7 +2,7 @@
 
 ## Instructions
 
-1. First clone the repository and navigate to the folder Python_Code_Test in the command line.
+1. First clone the repository and navigate to the relevant folder in the command line.
 2. Run 'pip install -r requirements.txt' in the command line.
 3. After this, run 'python producer_consumer.py' which reads a list of URLs, extracts the HTML config and then the associated hyperlinks using a 
 queue-based producer-consumer setup. The output on the command line shows the entire process where the producer and consumer run in parallel. 
